@@ -1,4 +1,4 @@
-h2.intro {
+/* h2.intro {
   font-family: fantasy;
 }
 
@@ -10,6 +10,15 @@ img.intro {
   border-style: dashed;
   border-color: brown;
   border-radius: 70px;
+}
+*/
 
-  
+.intro {
+  text-align: center;
+  font-family: fantasy;
+  color: brown;
+  border-style: dashed;
+  border-color: brown;
+  border-radius: 70px;
+
 }
