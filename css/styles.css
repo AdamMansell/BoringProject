@@ -1,0 +1,15 @@
+h2.intro {
+  font-family: fantasy;
+}
+
+p.intro {
+  color: brown;
+}
+
+img.intro {
+  border-style: dashed;
+  border-color: brown;
+  border-radius: 70px;
+
+  
+}
