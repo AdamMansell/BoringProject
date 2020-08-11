@@ -20,5 +20,12 @@ img.intro {
   border-style: dashed;
   border-color: brown;
   border-radius: 70px;
+}
 
+.highlight {
+  background-color: yellow;
+}
+
+.boxyBox {
+  border: black 10px solid;
 }
